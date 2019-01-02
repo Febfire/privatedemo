@@ -1,2 +1,2 @@
 # privatedemo
-some denos
+some demos
